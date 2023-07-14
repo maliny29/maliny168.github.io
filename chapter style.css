@@ -1,0 +1,184 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	font-family: "Khmer OS Battambang"
+}
+
+body{
+	display:flex;
+	flex-direction: row;
+	background-image: url("image/maliny BG.png");
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+header{
+	width:270px;
+	height:100%;
+	background:black;
+	position:fixed;
+	left:0;
+	top:0;
+	overflow: scroll;
+}
+
+.profile .logo{
+	display:flex;
+	justify-content: center;
+	width:250px;
+	height:180px;
+}
+
+.profile .logo img{
+	width:100%;
+	height:100%;
+}
+
+.profile h1{
+	color:white;
+	display: flex;
+	justify-content: center;
+	margin-top:-30px;
+}
+
+.profile .social-link{
+	margin:20px 0;
+	display: flex;
+	justify-content: center;
+}
+
+.profile .social-link a{
+	position:relative;
+	color:white;
+	font-size:1.5rem;
+	text-decoration: none;
+	margin:0 10px;
+	border:3px solid aqua;
+	border-radius:50%;
+	width:40px;
+	height:40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+	z-index:1;
+}
+
+.profile .social-link a::before{
+	content: '';
+	position: absolute;
+	background:aqua;
+	top:0;
+	left:0;
+	width:0;
+	height:100%;
+	z-index:-1;
+	transition:.3s ease;
+}
+
+.profile .social-link a:hover{
+	color:#521794;
+}
+
+.profile .social-link a:hover::before{
+	width:100%;
+}
+
+header .nav-menu ul{
+	margin:20px 0 0 40px;
+	
+}
+
+header .nav-menu ul li{
+	margin-bottom:20px;
+}
+
+header .nav-menu ul li a{
+	color:rgba(251,242,242,0.6);
+	text-decoration: none;
+	font-size:1.3rem;
+	display: flex;
+	/*opacity:0;
+	animation:slideleft .5s ease forwards;
+	animation-delay:calc(.2s*var(--i));*/
+}
+
+header .nav-menu ul li a.active{
+	color:white;
+}
+
+header .nav-menu ul li a.active i{
+	color:aqua;
+}
+
+header .nav-menu ul li:hover a{
+	color:white;
+}
+header .nav-menu ul li:hover a i{
+	color:aqua;
+}
+
+header .nav-menu{
+	display:flex;
+	flex-direction: column;
+}
+
+header .nav-menu button{
+	margin:10px 20px;
+	background:aqua;
+	border-radius:10px;
+	font-size:1.3rem;
+	font-weight: 600;
+	padding:5px;
+	transition:.3s ease;
+}
+
+header .nav-menu button:hover{
+	transform:scale(1.2);
+}
+
+.main{
+	margin-left:270px;
+	flex-grow: 1;
+	padding:20px;
+}
+
+.lesson{
+	background:rgba(99,72,73,1.00);
+	padding:20px;
+	position: absolute;
+	transition:.5s ease;
+	margin:20px 0;
+	margin-right:20px;
+	border-radius:20px;
+	color:white;
+	line-height: 40px;
+	height:90vh;
+	overflow-y: scroll;
+	transform:scale(0);
+}
+
+.lesson.active{
+		transform:scale(1);
+}
+.lesson::-webkit-scrollbar{
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

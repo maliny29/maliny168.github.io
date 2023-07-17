@@ -161,13 +161,18 @@ main{
 	top:10%;
 }
 
-#grammer,#resume{
+#grammer{
 	background:#4BCDC3;
 	width:100%;
+	height:100vh;
 	padding:10px;
 	display: inline-block;
+	overflow-y: scroll;
 }
 
+#grammer::-webkit-scrollbar{
+	display:none;
+}
 
 .grammer .lesson{
 	width:22%;
@@ -176,7 +181,7 @@ main{
 	border-radius:10px;
 	float:left;
 	margin:1.5%; 
-	display:inline-flex;
+	display:inline-block;
 	justify-content: space-between;
 	padding:10px;
 	overflow: hidden;
@@ -185,9 +190,22 @@ main{
 	transition:.3s ease;
 }
 
-.grammer h1{
+#grammer .grammer h1{
 	font-size:3rem;
 	padding:20px 0;
+	position: relative;
+}
+
+.grammer h1::before{
+	content: '';
+	width:100%;
+	height:3px;
+	background:black;
+	top:80px;
+	left:0;
+	position: absolute;
+	z-index: 100;
+	
 }
 
 .grammer .lesson:hover{
@@ -195,7 +213,7 @@ main{
 	box-shadow: 0 0 20px red;
 }
 
-.content .chapter a{
+.lesson a{
 	color:black;
 	text-decoration: none;
 	font-family:"Khmer OS Muol Light";
@@ -203,17 +221,17 @@ main{
 	transition:.3s ease;
 }
 
-.content .chapter a:hover{
+.lesson a:hover{
 	color:red;
 	text-shadow: 0 0 10px black;
 }
 
-.content h3{
+.lesson h3{
 	font-family:"Khmer OS Battambang";
 	font-size:1rem;
 }
 
-.content p{
+.lesson p{
 	position:absolute;
 	width:100%;
 	height:170px;
@@ -224,7 +242,7 @@ main{
 }
 
 
-.content p::-webkit-scrollbar{
+.lesson p::-webkit-scrollbar{
 	display: none;
 }
 

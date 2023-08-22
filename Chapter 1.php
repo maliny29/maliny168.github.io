@@ -287,18 +287,18 @@
 				<div class="note">
 				<h3>កំណត់ចំណាំរូបមន្ត</h3>
 					<p>
-						<b>1/</b> ㅏ + ㅏ = ㅏ 가다 => 가아요 => 가요<br>
-						<b>2/</b> ㅗ + ㅏ = ㅘ 오다 => 오아요 => 와요<br>
-						<b>3/</b> ㅓ + ㅓ = ㅓ 켜다 => 켜어요 => 커요<br>
-						<b>4/</b> ㅜ + ㅓ = ㅝ 주다 => 주어요 => 줘요<br>
-						<b>5/</b> ㅡ + ㅓ = ㅓ 쓰다 => 쓰어요 => 써요<br>
-						<b>6/</b> ㅣ + ㅓ = ㅕ 가르치다 => 가르치어요 => 가르쳐요
+						<b>1/</b> ㅏ + ㅏ = ㅏ 가다 > 가아요 > 가요<br>
+						<b>2/</b> ㅗ + ㅏ = ㅘ 오다 > 오아요 > 와요<br>
+						<b>3/</b> ㅓ + ㅓ = ㅓ 켜다 > 켜어요 > 커요<br>
+						<b>4/</b> ㅜ + ㅓ = ㅝ 주다 > 주어요 > 줘요<br>
+						<b>5/</b> ㅡ + ㅓ = ㅓ 쓰다 > 쓰어요 > 써요<br>
+						<b>6/</b> ㅣ + ㅓ = ㅕ 가르치다 > 가르치어요 > 가르쳐요
 					</p>
 			</div>
 				</p>
 			</div>
 
-		<div class="lesson" id="lesson-3">
+		<div class=" lesson" id="lesson-3">
 
 				<div class="grammer-title">
 					<h2>3/ <span style="font-family:'Khmer OS Muol Light';padding:3rem 0;font-size:1.3rem">កិរិយាស័ព្ទ </span>이다</h2>
@@ -361,7 +361,6 @@
 			<div class="lesson" id="lesson-4">
 				<div class="grammer-title">
 					<h2>4/ <span style="font-family: 'Khmer OS Muol Light';font-size:1.5rem">កិរិយាស័ព្ទប្រែប្រួល</span></h2>
-					
 				</div>
 				<h3>របៀបប្រើប្រាស់</h3>
 				<p>កិរិយាស័ព្ទប្រែប្រួល គឺជាកិរិយាស័ព្ទដែលប្រែប្រួល(ផ្លាស់ប្ដូរសណ្ឋាននៃពាក្យទំរង់ដើម)នៅពេលជួបនឹងទំរង់វេយ្យាករណ៍ដែលចាប់ផ្ដើមដោយស្រៈ។ ទំរង់វេយ្យាករណ៍ដែលបញ្ចប់ដោយស្រៈ (ㅇ)មានដួចជា -아(어,여)요 , -(으)세요 , -(으)니까 , -(으)ㄹ거예요 ជាដើម។</p>
@@ -508,7 +507,6 @@
 			<div class="lesson" id="lesson-5">
 				<div class="grammer-title">
 					<h2>5/ -(으)ㄴ/는/(으)ㄹ</h2>
-					<h5>ធ្នាក់៖ដែល</h5>
 				</div>
 				<h3>របៀបបង្កើតទំរង់</h3>
 				<table class="table table-bordered border-3 bg-info"></table>
@@ -524,162 +522,8 @@
 				<div class="senten4"></div>
 			</div>
 
-			<div class="lesson" id="lesson-6">
-				<div class="grammer-title"></div>
-				<div class="subtitle"></div>
-				<div class="subtitle-1"></div>
-				<div class="note-1"></div>
-				<div class="table-1"></div>
-				<div class="note-2"></div>
-				<div class="table-2"></div>
-				<div class="note-3"></div>
-				<div class="table-3"></div>
-				<div class="senten"></div>
-			</div>
-
-			<div class="lesson" id="lesson-7">
-				<div class="grammer-title">gbdfasdas</div>
-				<div class="subtitle"></div>
-				<div class="subtitle-1"></div>
-				<div class="note-1"></div>
-				<div class="table-1"></div>
-				<div class="note-2"></div>
-				<div class="table-2"></div>
-				<div class="note-3"></div>
-				<div class="table-3"></div>
-				<div class="senten"></div>
-				<div class="best-note">
-					<h3>ប្រៀបធៀប</h3>
-					<p>-았/었/였어요 Vs -았/었/였었어요</p>
-				</div>
-				<table class="table table-bordered border-3 bg-info">
-					<tr class="text-center">
-						<th>-았/었/였어요</th>
-						<th>-았/었/였었어요</th>
-					</tr>
-					<tr class="text-center">
-						<td>សំដៅលើសកម្មភាពដែលបានកើតឡើងក្នុងអតីតកាល ហើយសកម្មភាពនោះ អាចបន្តដល់បច្ចុប្បន្ន។<br> 민수 씨는 한국에 왔어요.<br>មីនស៊ូបានមកប្រទេសកូរ៉េ។<br>(ប្រហែលគាត់អាចកំពុងរស់នៅប្រទេសកូរ៉េពេលនេះ។អត់ដឹងថាមានអ្វីកើតឡើងក្រោយពេលគាត់មកប្រទេសកូរ៉េនោះទេ។)</td>
-						<td>សំដៅលើសកម្មភាពដែលបានបញ្ចប់ក្នុងអតីតកាល ហើយសកម្មភាពនោះមិនបន្តមកបច្ចុប្បន្នទេ។<br>민수 씨는 한국에 왔었어요.<br>មីនស៊ូធ្លាប់បានមកប្រទេសកូរ៉េ។<br>(តែឥឡូវគាត់មិននៅប្រទេសកូរ៉េទៀេតទេ)</td>
-					</tr>
-				</table>
-			</div>
-
-
-			<div class="lesson" id="lesson-8">
-				<div class="grammer-title"></div>
-				<div class="subtitle"></div>
-				<div class="subtitle-1"></div>
-				<div class="note-1"></div>
-				<div class="table-1"></div>
-				<div class="note-2"></div>
-				<div class="table-2"></div>
-				<div class="note-3"></div>
-				<div class="table-3"></div>
-				<div class="senten"></div>
-			</div>
-
-			<div class="lesson" id="lesson-9">
-				<div class="grammer-title"></div>
-				<div class="subtitle"></div>
-				<div class="subtitle-1"></div>
-				<div class="table"></div>
-				<div class="senten"></div>
-			</div>
-
-			<div class="lesson" id="lesson-10">
-				 <div class="grammer-title"></div>
-				 <div class="subtitle"></div>
-				 <div class="subtitle-1"></div>
-				 <div class="word">
-					<p>가다 => 안 가요</p>
-					<p>작다 => 안 작아요</p>
-				 </div>
-				 <div class="subtitle-2"></div>
-				 <div class="note"></div>
-				 <div class="table"></div>
-				 <div class="subtitle-3"></div>
-				 <div class="word-1">	
-					<p>
-						공부했어요 => 공부 안 했어요 <br>
-						일해요 => 일 안 해요
-					</p>
-				 </div>
-				 <div class="subtitle-4"></div>
-				 <div class="word-2">
-					<p>
-						좋아하다 => 안 좋아하다 좋아하지 않다<br>
-						싫어하다 => 안 삻어하다 싫어하지 않다
-					</p>
-				 </div>
-				 <div class="senten"></div>
-			</div>
-
-			<div class="lesson" id="lesson-11">
-				<div class="grammer-title"></div>
-				<div class="subtitle"></div>
-				<div class="senten"></div>
-			</div>
-
-			<div class="lesson" id="lesson-12">
-				<div class="grammer-title"></div>
-				<div class="subtitle"></div>
-				<div class="subtitle-1"></div>
-				<div class="word">
-					<p>
-						가다 => 못 가다<br>
-						먹다 => 못 먹다
-					</p>
-				</div>
-				<div class="subtitle-2"></div>
-				<div class="word">
-					<p>
-						가다 => 가지 못하다<br>
-						먹다 => 먹지 못하다
-					</p>
-				</div>
-				<div class="subtitle-3"></div>
-				<div class="word">
-					<p>
-						사랑하다 => 사랑 목하다 <br>
-						공부했다 => 공부 못했다
-					</p>
-				</div>
-				<div class="senten"></div>
-				<div class="best-note">
-					<h3>ប្រៀបធៀប</h3>
-					<p>안/-지 않다 Vs 못/-지 못하다</p>
-				</div>
-				<table class="table table-bordered border-3 bg-info">
-					<tr class="text-center">
-						<th>안/-지 않다</th>
-						<th>못/-지 못하다</th>
-					</tr>
-					<tr class="text-center">
-						<td>
-							អាចប្រើជាមួយកិរិយាស័ព្ទសកម្មក៏បានជាមួយកិ.ពិ.ក៏បាន <br>학교에 안 가요.<br>ខ្ញុំអត់ទៅសាលាទេ។ <br>옷이 안 예뻐요.<br>អាវអត់ស្អាតទេ។<br>
-							<br>ប្រើដើម្បីបង្ហាញពីចេតនាមិនចង់ធ្វើ<br>​ 저는 운전을 안 해요.<br>ខ្ញុំអត់បើកបរទេ។<br>(ចេះបើកបរតែមិនចង់បើក)<br>오늘은 쇼핑하지 않아요.<br>ថ្ងៃនេះ ខ្ញុំអត់ដើរហ្សបភីងទេ។<br>(គាត់មិនចង់ដើរហ្សបភីងទេ)
-						</td>
-						<td>
-							អាចប្រើបានជាមួយតែកិរិយាស័ព្ទសកម្មប៉ុណ្ណោះ<br>
-							학교에 못 가요.<br>
-							ខ្ញុំអត់ទៅសាលាទេ។<br>
-							옷이 못 예뻐요.(⨯)<br>
-							(អាវអត់ស្អាតទេ)<br><br>
-							បង្ហាញពីចិត្តចង់ធ្វើដែរ តែគ្មានលទ្ធភាព<br>
-							저는 운전을 못해요.<br>
-							ខ្ញុំអត់ចេះបើកបរទេ។
-						</td>
-					</tr>
-				</table>
-			</div>
+			<div class="lesson" id="lesson-6"></div>
 	</main>
 </body>
-<script src="chapter-1 js.js"></script>
-<script src="chapter1-lesson-6.js"></script>
-<script src="chapter-1-lesson-7.js"></script>
-<script src="chapter-1-lesson-8.js"></script>
-<script src="chapter-1-lesson-9.js"></script>
-<script src="chapter-1-lesson-10.js"></script>
-<script src="chapter-1-lesson-11.js"></script>
-<script src="chapter-1-lesson-12.js"></script>
+<script src="chapter js.js"></script>
 </html>

@@ -6,6 +6,12 @@ var button = [
 			{"name":"4/ កិរិយាស័ព្ទប្រែប្រួល","target":"lesson-4","style":"--i:9;"},
 			{"name":"5/ -(으)ㄴ/는/(으)ㄹ","target":"lesson-5","style":"--i:10;"},
 			{"name":"6/ -았(었,였)어요","target":"lesson-6","style":"--i:11;"},
+			{"name":"7/ -았(었,였)었어요","target":"lesson-7","style":"--i:12;"},
+			{"name":"8/ -(으)ㄹ 거예요 ①","target":"lesson-8","style":"--i:13;"},
+			{"name":"9/ -고 있다 ①","target":"lesson-9","style":"--i:14;"},
+			{"name":"10/ 안 / -지 않다","target":"lesson-10","style":"--i:14;"},
+			{"name":"11/ -이/가 아니다","target":"lesson-11","style":"--i:15;"},
+			{"name":"12/ 못 / -지 못해요","target":"lesson-12","style":"--i:16;"},
 			];
 function getButton(){
 	var txt="";
@@ -473,6 +479,9 @@ var table = [
 
 	
 //-----------Lesson-5 End----------//
+
+//-----------lesson-6--------------//
+
 
  const open = document.querySelectorAll('.open');
 
